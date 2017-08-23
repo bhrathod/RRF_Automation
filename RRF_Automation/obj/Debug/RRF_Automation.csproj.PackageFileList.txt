@@ -1,0 +1,1 @@
+bin\Debug\RRF_Automation.wsp

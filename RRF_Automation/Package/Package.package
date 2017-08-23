@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="f2957dd2-8fd3-49b5-828f-0eb8a806751c" 
+        solutionId="f2957dd2-8fd3-49b5-828f-0eb8a806751c" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="RRF_Automation"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="85214b81-9f85-47ba-935f-2df46093fb2a" />
+  </features>
+</package>
